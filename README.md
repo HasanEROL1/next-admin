@@ -25,11 +25,11 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 | Genel Bakış (Dashboard) | Ürün Yönetimi |
 | :--- | :--- |
-| ![Dashboard]() | ![Ürün Listesi](image_86bbd1.png) |
+| ![Dashboard](dashbord.png) | ![Ürün Listesi](urunekleme-form.png) |
 
 | Yeni Ürün Formu |
 | :--- |
-| ![Ürün Ekleme Formu](image_86bbb0.png) |
+| ![Ürün Ekleme Formu](urunekleme-form.png) |
 
 
 
