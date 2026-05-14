@@ -37,10 +37,10 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 ## 📦 Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için:
-```
-```markdown
-### 🚀 Projeyi Klonlayın
 
+
+### 🚀 Projeyi Klonlayın
+```
 git clone https://github.com/HasanEROL1/next-admin
 cd next-admin
 
