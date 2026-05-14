@@ -22,11 +22,13 @@ Modern web teknolojileriyle geliştirilmiş, veri odaklı ve tam fonksiyonel bir
 ![gif](admin-next.gif)
 
 Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
-
+| Yeni Ürün Formu |
+| :--- |
 | Genel Bakış (Dashboard) | Ürün Yönetimi |
 
 
-
+| Yeni Ürün Formu |
+| :--- |
  ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
 
 | Yeni Ürün Formu |
