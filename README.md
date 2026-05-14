@@ -38,24 +38,24 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 Projeyi yerel makinenizde çalıştırmak için:
 ```
-1. Projeyi Klonlayın:
+### 1. Projeyi Klonlayın:
 git clone https://github.com/HasanEROL1/next-admin
 cd next-admin
 
-2. **Bağımlılıkları Yükleyin:**
+### 2. **Bağımlılıkları Yükleyin:**
 
    npm install
 
-3.  ** API Sunucusunu Başlatın (Port: 9090):
+### 3.  ** API Sunucusunu Başlatın (Port: 9090):
 
   *API varsayılan olarak `http://localhost:9090` adresinde çalışacaktır.*
 
-4. **Uygulamayı Başlatın:**
+### 4. **Uygulamayı Başlatın:**
 
    npm run dev
    ```
 
-📂 Proje Yapısı
+## 📂 Proje Yapısı
 db.json: Tüm ürün, kullanıcı ve sipariş verilerini içeren mock veritabanı.
 
 - src/types: TypeScript tip tanımlamaları.
