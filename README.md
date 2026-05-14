@@ -23,17 +23,13 @@ Modern web teknolojileriyle geliştirilmiş, veri odaklı ve tam fonksiyonel bir
 
 Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 | Genel Bakış (Dashboard) | Ürün Yönetimi |
-| :--- |
-
-
-
-| Dashboard |
-| :--- |
- ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
+| :--- | :--- |
+| ![Dashboard](image_86bc0a.png) | ![Ürün Listesi](image_86bbd1.png) |
 
 | Yeni Ürün Formu |
 | :--- |
-| ![Ürün Ekleme Formu](urunekleme-form.png) |
+| ![Ürün Ekleme Formu](image_86bbb0.png) |
+
 
 
 
