@@ -44,7 +44,7 @@ git clone https://github.com/HasanEROL1/next-admin
 cd next-admin
 
 ### 📦 **Bağımlılıkları Yükleyin:**
-
+```
    npm install
 
 ### 🚀  ** API Sunucusunu Başlatın (Port: 9090):
@@ -52,7 +52,7 @@ cd next-admin
   *API varsayılan olarak `http://localhost:9090` adresinde çalışacaktır.*
 
 ### 🚀 **Uygulamayı Başlatın:**
-
+```
    npm run dev
    ```
 
