@@ -39,18 +39,18 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 Projeyi yerel makinenizde çalıştırmak için:
 ```
-** Projeyi Klonlayın:
+1. Projeyi Klonlayın:
 git clone https://github.com/HasanEROL1/next-admin
 cd next-admin
-** **Bağımlılıkları Yükleyin:**
+2. **Bağımlılıkları Yükleyin:**
 
    npm install
 
-  ** API Sunucusunu Başlatın (Port: 9090):
+3.  ** API Sunucusunu Başlatın (Port: 9090):
 
   *API varsayılan olarak `http://localhost:9090` adresinde çalışacaktır.*
 
-** **Uygulamayı Başlatın:**
+4. **Uygulamayı Başlatın:**
 
    npm run dev
    ```
