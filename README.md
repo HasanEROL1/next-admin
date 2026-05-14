@@ -27,7 +27,7 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 
 
-| Yeni Ürün Formu |
+| Ürünler |
 | :--- |
  ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
 
