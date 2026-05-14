@@ -55,13 +55,8 @@ cd next-admin
    npm run dev
    ```
 
-
-
-
-
-
-
-
+📂 Proje Yapısı
+db.json: Tüm ürün, kullanıcı ve sipariş verilerini içeren mock veritabanı.
 
 - src/types: TypeScript tip tanımlamaları.
 
@@ -70,3 +65,10 @@ cd next-admin
 Geliştirici: Hasan Erol
 
 Web: hasanerol.dev
+
+
+
+
+
+
+
