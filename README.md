@@ -41,6 +41,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 1. Projeyi Klonlayın:
 git clone https://github.com/HasanEROL1/next-admin
 cd next-admin
+
 2. **Bağımlılıkları Yükleyin:**
 
    npm install
