@@ -48,11 +48,11 @@ cd next-admin
 ```
    npm install
 ```
-### 🚀   API Sunucusunu Başlatın (Port: 9090):
+### ⚙️   API Sunucusunu Başlatın (Port: 9090):
 ```
   *API varsayılan olarak `http://localhost:9090` adresinde çalışacaktır.*
 ```
-### 🚀 Uygulamayı Başlatın:
+### 💻 Uygulamayı Başlatın:
 ```
    npm run dev
 ```
