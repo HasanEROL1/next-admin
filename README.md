@@ -27,7 +27,7 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 
 
-| Ürünler |
+| Dashboard |
 | :--- |
  ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
 
