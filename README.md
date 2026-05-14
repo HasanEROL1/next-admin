@@ -77,17 +77,7 @@ Modern web teknolojileriyle geliştirilmiş, veri odaklı ve tam fonksiyonel bir
 * **Grafik:** Chart.js
 * **Mock Backend:** JSON Server
 
-## 🎥 Demo
 
-Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
-
-| Genel Bakış (Dashboard) | Ürün Yönetimi |
-| :--- | :--- |
-| ![Dashboard](image_86bc0a.png) | ![Ürün Listesi](image_86bbd1.png) |
-
-| Yeni Ürün Formu |
-| :--- |
-| ![Ürün Ekleme Formu](image_86bbb0.png) |
 
 ## 📦 Kurulum ve Çalıştırma
 
