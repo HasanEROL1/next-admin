@@ -27,7 +27,7 @@ Aşağıda projenin temel arayüzlerine ait görseller yer almaktadır:
 
 
 
-| ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
+ ![Dashboard](dashbord.png) | ![Ürün Listesi](urunler.png) |
 
 | Yeni Ürün Formu |
 | :--- |
@@ -52,9 +52,7 @@ Projeyi yerel makinenizde çalıştırmak için:
    npm run dev
    ```
 
-   Hasan, haklısın; bazen sistem o dosya kartlarını "indirilebilir" yapmak yerine sadece bir önizleme gibi gösteriyor. Madem dosya kartı sende inmiyor, en sağlam ve garantili yolu yapalım.
 
-Aşağıdaki kodu kopyala (sağ üstteki butondan), bilgisayarında projenin ana klasöründe yeni bir metin belgesi aç, adını README.md yap ve içine yapıştır. Bu şekilde sıfır hata ile tertemiz dökümanın olur.
 
 Markdown
 # 📊 E-Commerce Admin Dashboard
